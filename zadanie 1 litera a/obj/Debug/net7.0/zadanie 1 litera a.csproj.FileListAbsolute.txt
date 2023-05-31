@@ -1,0 +1,15 @@
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 1 litera a\obj\Debug\net7.0\zadanie 1 litera a.csproj.AssemblyReference.cache
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 1 litera a\obj\Debug\net7.0\zadanie 1 litera a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 1 litera a\obj\Debug\net7.0\zadanie 1 litera a.AssemblyInfoInputs.cache
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 1 litera a\obj\Debug\net7.0\zadanie 1 litera a.AssemblyInfo.cs
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 1 litera a\obj\Debug\net7.0\zadanie 1 litera a.csproj.CoreCompileInputs.cache
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 1 litera a\bin\Debug\net7.0\zadanie 1 litera a.exe
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 1 litera a\bin\Debug\net7.0\zadanie 1 litera a.deps.json
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 1 litera a\bin\Debug\net7.0\zadanie 1 litera a.runtimeconfig.json
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 1 litera a\bin\Debug\net7.0\zadanie 1 litera a.dll
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 1 litera a\bin\Debug\net7.0\zadanie 1 litera a.pdb
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 1 litera a\obj\Debug\net7.0\zadanie 1 litera a.dll
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 1 litera a\obj\Debug\net7.0\refint\zadanie 1 litera a.dll
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 1 litera a\obj\Debug\net7.0\zadanie 1 litera a.pdb
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 1 litera a\obj\Debug\net7.0\zadanie 1 litera a.genruntimeconfig.cache
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 1 litera a\obj\Debug\net7.0\ref\zadanie 1 litera a.dll

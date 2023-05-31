@@ -1,0 +1,15 @@
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 2 zamiana słów\bin\Debug\net7.0\zadanie 2 zamiana słów.exe
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 2 zamiana słów\bin\Debug\net7.0\zadanie 2 zamiana słów.deps.json
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 2 zamiana słów\bin\Debug\net7.0\zadanie 2 zamiana słów.runtimeconfig.json
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 2 zamiana słów\bin\Debug\net7.0\zadanie 2 zamiana słów.dll
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 2 zamiana słów\bin\Debug\net7.0\zadanie 2 zamiana słów.pdb
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 2 zamiana słów\obj\Debug\net7.0\zadanie 2 zamiana słów.csproj.AssemblyReference.cache
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 2 zamiana słów\obj\Debug\net7.0\zadanie 2 zamiana słów.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 2 zamiana słów\obj\Debug\net7.0\zadanie 2 zamiana słów.AssemblyInfoInputs.cache
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 2 zamiana słów\obj\Debug\net7.0\zadanie 2 zamiana słów.AssemblyInfo.cs
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 2 zamiana słów\obj\Debug\net7.0\zadanie 2 zamiana słów.csproj.CoreCompileInputs.cache
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 2 zamiana słów\obj\Debug\net7.0\zadanie 2 zamiana słów.dll
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 2 zamiana słów\obj\Debug\net7.0\refint\zadanie 2 zamiana słów.dll
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 2 zamiana słów\obj\Debug\net7.0\zadanie 2 zamiana słów.pdb
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 2 zamiana słów\obj\Debug\net7.0\zadanie 2 zamiana słów.genruntimeconfig.cache
+C:\Users\yclic\Desktop\Masterdev zadania\zadanie 2 zamiana słów\obj\Debug\net7.0\ref\zadanie 2 zamiana słów.dll
